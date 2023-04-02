@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#Link of the site
+# Link of the site
 https://netflix-clone-ba3fa.web.app/
 
 ## Available Scripts
